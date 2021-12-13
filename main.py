@@ -7,7 +7,7 @@ from tkinter.filedialog import askdirectory
 from tkinter import ttk
 from sougou_spider1 import getsougou
 from bing_spider1 import getbing
-from baidu_spider import baidu
+from baidu_spider1 import baidu
 
 root = tk.Tk()
 
